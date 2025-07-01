@@ -1,0 +1,42 @@
+
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter and Colab stuff
+.ipynb_checkpoints/
+*.ipynb
+
+# Environment files
+.env
+.venv/
+env/
+venv/
+
+# macOS and Linux
+.DS_Store
+Thumbs.db
+
+# VS Code and IDE configs
+.vscode/
+*.code-workspace
+.idea/
+
+# Streamlit logs
+logs/
+.streamlit/credentials.toml
+.streamlit/secrets.toml
+
+# Model outputs or logs
+*.pkl
+*.h5
+*.joblib
+
+# Zip files
+*.zip
+
+# Python packaging
+*.egg-info/
+dist/
+build/
