@@ -122,7 +122,7 @@ print("App is live at:", public_url)
 ## ✍️ Author
 
 - **Name:** Tanushree Rathod
-- **Built with ❤️ using Streamlit in Google Colab**
+- **Built with using Streamlit in Google Colab**
 
 ---
 
