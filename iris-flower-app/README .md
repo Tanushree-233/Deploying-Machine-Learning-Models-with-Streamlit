@@ -121,7 +121,7 @@ print("App is live at:", public_url)
 
 ## ✍️ Author
 
-- **Name:** Tanushree Rathod (Tanuuuuu 💫)
+- **Name:** Tanushree Rathod
 - **Built with ❤️ using Streamlit in Google Colab**
 
 ---
